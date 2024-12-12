@@ -6,7 +6,7 @@ import moment from 'moment-timezone';
 
 global.botnumber = ""
 global.confirmCode = ""
-global.authFile = `MysticSession`;
+global.authFile = `PrakSession`;
 
 // Cambiar a true si el Bot responde a sus comandos con otros comandos.
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
@@ -16,7 +16,7 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
+  ['5057865603', '👑 Mystic - Creador 👑', true],
   ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
   ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
