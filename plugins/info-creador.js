@@ -46,7 +46,7 @@ const handler = async (m, {conn, usedPrefix}) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/BrunoSobrino/TheMystic-Bot-MD',
+        'mediaUrl': 'https://github.com/Prakharper',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2[1],
