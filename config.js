@@ -16,8 +16,8 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['5057865603', '👑 Mystic - Creador 👑', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
+  ['584241836217', '👑 Mystic - Creador 👑', true],
+  ['50557865603', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
   ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
   ['50246028932', '💫 Mystic - Collaborator 5 💫', true],
