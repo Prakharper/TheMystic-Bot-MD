@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD/graphs/contributors">
+  <a href="https://github.com/BrunoSobrino/demonprak-Bot-MD/graphs/contributors">
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/BrunoSobrino/TheMystic-Bot-MD?style=for-the-badge" />
   </a>
-  <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues">
+  <a href="https://github.com/WillZek/PrakBot-Ai">
     <img alt="GitHub Issues" src="https://img.shields.io/github/issues/BrunoSobrino/TheMystic-Bot-MD?style=for-the-badge" />
   </a>
-  <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD/pulls">
-    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/BrunoSobrino/TheMystic-Bot-MD?style=for-the-badge" />
+  <a href="https://github.com/WillZek/PrakBot-Ai">
+    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/prakharper/Demonprak-Bot-MD?style=for-the-badge" />
   </a>
-  <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD/commits">
+  <a href="https://github.com/WillZek/PrakBot-Ai">
     <img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/BrunoSobrino/TheMystic-Bot-MD?style=for-the-badge" />
   </a>
   <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">
